@@ -3,10 +3,3 @@ date,Date,true
 creator,Creator,true
 subject,Subjects,true
 location,Location,true
-
-latitude: 46.227638
-longitude: 2.213749
-zoom-level: 5
-map-base: Esri_WorldImagery
-map-cluster: true
-map-cluster-radius: 25
