@@ -13,6 +13,6 @@ type,Type,,
 format,Format,,
 rights,Rights,,
 rightsstatement,Rights Statement,,true
-excerpt,Excerpt,,true
+excerpt,Excerpt,true
 featuredcurse,Featured Curse,true,
 medium,Artistic Medium,true,
