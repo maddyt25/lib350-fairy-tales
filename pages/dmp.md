@@ -1,3 +1,9 @@
+---
+title: Data Management Plan
+layout: page
+permalink: /dmp.html
+---
+
 **Data Management Plan**
 
 **DMP Requirements**
