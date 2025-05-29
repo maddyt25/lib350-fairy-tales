@@ -4,54 +4,68 @@ layout: page
 permalink: /dmp.html
 ---
 
-**Data Management Plan**
+**Fairy Tales \- Countless Curses**
 
-**DMP Requirements**
+**Data Management Plan**
 
 **Project Description**
 
-* **Our collection is composed of fairy/folk tale illustrations from stories featuring curse narratives throughout the 19th and early 20th centuries, drawing from a variety of different stories, versions, and illustrators. Our collection might be of interest to those conducting humanities research, or who have a curiosity for different fairy tales, how they have appeared historically, and how curse narratives have reflected societal anxieties of the time. Additionally, to people interested in seeing how certain illustrators’ work has changed over time, or how fairy tale illustration as a genre has developed stylistically (as this can vary based on the story version and its location of origin).**
-  
-* **Using CollectionBuilder as a template and Google Sheets for our metadata, we’re hosting our collection as a website on GitHub, allowing users to view, search, and categorize our items by illustrator, story, medium, featured fairy tale curse, location, and date.**
+Our collection is composed of fairy/folk tale illustrations from stories featuring curse narratives throughout the 19th and early 20th centuries, drawing from a variety of different stories, versions, and illustrators. Our collection might be of interest to those conducting humanities research, or who have a curiosity for different fairy tales, how they have appeared historically, and how curse narratives have reflected societal anxieties of the time. Additionally, to people interested in seeing how certain illustrators’ work has changed over time, or how fairy tale illustration as a genre has developed stylistically (as this can vary based on the story version and its location of origin). 
+
+Using CollectionBuilder as a template and Google Sheets for our metadata, we’re hosting our collection as a website on GitHub, allowing users to view, search, and categorize our items by illustrator, story, medium, featured fairy tale curse, location, and date.
 
 **Roles and Responsibilities**
 
-* **Kitty Fields,Maddy Thomas**  
-* **We’ve shared responsibilities for managing and entering data throughout our project. We’ve worked both together to find individual objects, document and upload them, and coordinate our work on the aesthetic and technical parts of our website.**
+**Group Members:** Kitty Fields, Maddy Thomas
+
+We’ve shared responsibilities for managing and entering data throughout our project. We’ve worked both together to find individual objects, document and upload them, and coordinate our work on the aesthetic and technical parts of our website.
 
 **Anticipated Data**
 
-* **Our data was collected through various archives, libraries, and museum collections, which we used to both find images and relevant information associated with each object (title, year, illustrator, etc.). While some of the fairy tales we focused on were more well-known, we also used the Aarne-Thompson-Uther index to locate more obscure stories to diversify our collection.**  
+Our data was collected through various archives, libraries, and museum collections, which we used to both find images and relevant information associated with each object (title, year, illustrator, etc.). While some of the fairy tales we focused on were more well-known, we also used the Aarne-Thompson-Uther index to locate more obscure stories to diversify our collection. 
+
+| Item Description | File Type | Size (MB) | \# of Items | Licenses | Sources |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Illustrations of different fairy tales that contain curse narratives | jpeg/png | 0.4 MB | 28 | Public Domain, No Known Copyright | New York Public Library, Internet Archive, Cleveland Museum of Art, Smithsonian Institute, Wikimedia Commons, University of Maryland Children’s Library, University of Michigan Library, Hathi Trust, University of Florida Digital Collections |
 
 **Documentation and Metadata**
 
-* **What type of metadata will accompany this data? Where and how can users access this metadata?**  
-  * **Hint: Your data dictionary, once completed, is excellent documentation\! Where and how do you plan on provide it to your audience?**
+We plan on including our data dictionary/appendix as a tab on the homepage of our CollectionBuilder site, as a way of allowing users to see the different categories that make up our data. Additionally, we have a “Data” tab on our site that allows users to see the metadata associated with each object.
 
 **Storage and Backup** 
 
-* **Describe resources, repositories, and platforms used to preserve your data during the project.**  
-  * **Hint: This should include Google Drive, GitHub, and any storage on your personal computers.**
+We’re incorporating several ways of preserving our data while we work on our project. Primarily, our objects and metadata are stored on Github, but we also have a backup folder containing our objects in a shared Google Drive, alongside our metadata sheet. Additionally, copies of our images, as well as a copy of the most recent iteration of our metadata, is stored on our personal computers, which also backup on the cloud. 
 
 **Data Sharing**
 
-* **How will you share your data? What will you make available?**  
-* **Could others want to reuse your data? In what ways?**  
-* **Do you plan on archiving your data in an external repository like Zenodo? (This is not a requirement\!)**
+Our data will be available through our CollectionBuilder website, which contains information about the objects’ titles, creators, years of creation, etc. that may be helpful for reuse. We also link directly to the original repository in which we found each object, allowing for easy access to the source in which the item was found. 
 
 **Period of Data Retention**
 
-* **This section should address how long your group plans to maintain each component of the project before and after it has been submitted for grading.**  
-* **If you plan to maintain the project after the term ends, what is your contingency plan if a component of the project goes down?**
+We plan on maintaining our CollectionBuilder site for the duration of this class, as well as keeping our data backups (on personal computers and Google Drive). While we will leave the website up after the end of this term, we don’t plan on actively maintaining or adding to our collection after it has been submitted.
 
 **Licensing and Ethical Issues**
 
-* **Use this section to outline the intellectual property rights of your created material.  What are the terms under which others may use these materials? If your data and products raise any potential ethics issues, use this section to address those matters.**
+All of the illustrations in our collection are in the public domain, as the majority of them are from before 1925 or have creators who have been dead for more than 70 years. Individually, each of our objects also has a link to a specific rights statement outlining the terms of use for each illustration. 
 
 **Appendix: Data Dictionary**
 
 | field | description | example value |
 | :---- | :---- | :---- |
 | objectid | Unique identifier for each object | coll01 |
-| filename | Name of the file, including file type extension,  |  |
-
+| filename | Name of the file, including file type extension. The filename consists of three components to make identification easier: the fairy tale’s title (often abbreviated or as an acronym), the year the object was produced, and the surname of the illustrator. | sw\_1892\_tschautsch.jpg |
+| title | Name of the object, either from the original repository or given by the team. | The prince arrives. |
+| creator | The name of the illustrator who created the object. | Albert Tschautsch |
+| date | The year that the object was created. In some cases, the year is an estimate/approximation. | 1892 |
+| medium | The medium that the object was created in. If no information is available about the object’s medium, the field is left blank. | Wood Engraving  |
+| description | A detailed description of the object, as it is illustrated.  | The prince arrives to see Snow White asleep in her coffin, surrounded by the seven dwarves. |
+| featuredcurse | A broad category for the type of curse featured in the fairy tale.  | sleeping curse |
+| subject | The title of the fairy tale associated with the illustration.  | Snow White |
+| location | The fairy tale’s country of origin. | Germany |
+| latitude | The geographic coordinate detailing the north-south position of the object’s country of origin. | 50.890781 |
+| longitude | The geographic coordinate detailing the east-west position of the object’s country of origin. | 10.448669 |
+| source | A link to the original repository where the object was found. | [https://digitalcollections.nypl.org/items/69442d4b-78ff-76b8-e040-e00a18065389](https://digitalcollections.nypl.org/items/69442d4b-78ff-76b8-e040-e00a18065389) |
+| type | A further specification of our objects, defined as an image, stillimage, movingimage, text, etc. | Image;stillimage |
+| format | The object’s file type. | image/jpeg |
+| rights | The rights of the specific object. | No known Copyright |
+| rightsstatement | A link to the rights statement defining how the object can be shared with the public. | [https://rightsstatements.org/page/NKC/1.0/?language=en](https://rightsstatements.org/page/NKC/1.0/?language=en) |
