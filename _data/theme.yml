@@ -13,6 +13,7 @@ featured-image: coll005
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
+home-bg-color: "#F0DEBA"
 
 ##########
 # ITEM PAGE
