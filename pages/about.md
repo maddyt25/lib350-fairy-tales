@@ -16,4 +16,4 @@ Our collection is composed of fairy/folk tale illustrations from stories featuri
 
 ## Citations 
 
-Here are my citations 
+See source material URLs  
