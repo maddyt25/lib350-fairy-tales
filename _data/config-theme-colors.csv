@@ -2,8 +2,8 @@ color_class,color
 primary,#CB9500
 secondary,#570170
 success,#570170
-info,
+info,#F0DEBA
 warning,
 danger,#690909
-light,#F0DEBA
+light,
 dark,#460707
