@@ -10,20 +10,18 @@ permalink: /dmp.html
 
 **Project Description**
 
-* **This should include a brief description of the technology (CollectionBuilder, GitHub, Sheets) you're using, your research topic, how your project benefits your audience, and anything else exciting you want to share. Unlike your topic description, this should be a short summary of the technical aspects of the project.**
+* **Our collection is composed of fairy/folk tale illustrations from stories featuring curse narratives throughout the 19th and early 20th centuries, drawing from a variety of different stories, versions, and illustrators. Our collection might be of interest to those conducting humanities research, or who have a curiosity for different fairy tales, how they have appeared historically, and how curse narratives have reflected societal anxieties of the time. Additionally, to people interested in seeing how certain illustrators’ work has changed over time, or how fairy tale illustration as a genre has developed stylistically (as this can vary based on the story version and its location of origin).**
+  
+* **Using CollectionBuilder as a template and Google Sheets for our metadata, we’re hosting our collection as a website on GitHub, allowing users to view, search, and categorize our items by illustrator, story, medium, featured fairy tale curse, location, and date.**
 
 **Roles and Responsibilities**
 
-* **List all group members on the project (you do not have to put your names on the version of the DMP posted online)**  
-* **Explain how data management responsibilities are coordinated across partners.**
+* **Kitty Fields,Maddy Thomas**  
+* **We’ve shared responsibilities for managing and entering data throughout our project. We’ve worked both together to find individual objects, document and upload them, and coordinate our work on the aesthetic and technical parts of our website.**
 
 **Anticipated Data**
 
-* **The DMP should describe the types of data produced during the project and matters such as:**  
-  * **include all file types used in the site, list license selected for site and discuss licenses groupings for digital objects**  
-  * **Include a brief description of data volume in MB here, grouped by file type**  
-  * **the way your data was generated or acquired**  
-  * **document the data associated with the project:**
+* **Our data was collected through various archives, libraries, and museum collections, which we used to both find images and relevant information associated with each object (title, year, illustrator, etc.). While some of the fairy tales we focused on were more well-known, we also used the Aarne-Thompson-Uther index to locate more obscure stories to diversify our collection.**  
 
 **Documentation and Metadata**
 
