@@ -31,3 +31,7 @@ $theme-colors: map-merge(
 {% endif %}
 
 @import "base", "pages", "custom";
+
+body {
+  background: #F0DEBA
+}
