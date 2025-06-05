@@ -10,15 +10,15 @@ permalink: /dmp.html
 
 **Project Description**
 
-Our collection is composed of fairy/folk tale illustrations from stories featuring curse narratives throughout the 19th and early 20th centuries, drawing from a variety of different stories, versions, and illustrators. Our collection might be of interest to those conducting humanities research, or who have a curiosity for different fairy tales, how they have appeared historically, and how curse narratives have reflected societal anxieties of the time. Additionally, to people interested in seeing how certain illustrators’ work has changed over time, or how fairy tale illustration as a genre has developed stylistically (as this can vary based on the story version and its location of origin). 
+Our collection is composed of fairy/folk tale illustrations from stories featuring curse narratives throughout the 19th and early 20th centuries, drawing from a variety of different stories, story versions, and illustrators. It may be of interest to those conducting humanities research, or who have a curiosity for different fairy tales, how they have appeared historically, and how curse narratives have reflected societal anxieties of the time. Additionally, because our collection reflects illustration from a wide range of years, it may be of interest to those wanting to see how certain illustrators’ work has changed over time, or how fairy tale illustration as a genre has developed stylistically (as this can vary based on the story version and its location of origin). 
 
-Using CollectionBuilder as a template and Google Sheets for our metadata, we’re hosting our collection as a website on GitHub, allowing users to view, search, and categorize our items by illustrator, story, medium, featured fairy tale curse, location, and date.
+We’re hosting our collection as a website on GitHub, which is a “platform that allows developers to create, store, manage, and share their code.” Specifically, we are using CollectionBuilder Sheets, an open-source template that uses our metadata information to create a cohesive website.  Our website, produced from this software, allows users to view, search, and categorize our items by illustrator, story, medium, featured fairy tale curse, location, and date. 
 
 **Roles and Responsibilities**
 
 **Group Members:** Kitty Fields, Maddy Thomas
 
-We’ve shared responsibilities for managing and entering data throughout our project. We’ve worked both together to find individual objects, document and upload them, and coordinate our work on the aesthetic and technical parts of our website.
+We’ve shared responsibilities for managing and entering data throughout our project. We’ve worked together to find individual objects, document and upload them, and coordinate our work on the aesthetic and technical parts of our website.
 
 **Anticipated Data**
 
@@ -30,23 +30,23 @@ Our data was collected through various archives, libraries, and museum collectio
 
 **Documentation and Metadata**
 
-We plan on including our data dictionary/appendix as a tab on the homepage of our CollectionBuilder site, as a way of allowing users to see the different categories that make up our data. Additionally, we have a “Data” tab on our site that allows users to see the metadata associated with each object.
+We plan on including our data dictionary/appendix as a tab on the homepage of our CollectionBuilder site, which will be helpful for users to see the categories that make up our metadata. Additionally, we have a “Data” tab on our site that allows users to see the metadata associated with each object. In conjunction with our data dictionary, users will be able to see and understand what each category specifically represents, and how it applies to each of our objects.
 
 **Storage and Backup** 
 
-We’re incorporating several ways of preserving our data while we work on our project. Primarily, our objects and metadata are stored on Github, but we also have a backup folder containing our objects in a shared Google Drive, alongside our metadata sheet. Additionally, copies of our images, as well as a copy of the most recent iteration of our metadata, is stored on our personal computers, which also backup on the cloud. 
+We’re incorporating several ways of preserving our data while we work on our project. Primarily, our objects and metadata are stored on Github, but we also have a backup folder containing our objects in a shared Google Drive, alongside our metadata sheet. Additionally, copies of our images, as well as a copy of the most recent iteration of our metadata, is stored on our personal computers, which also backup on Microsoft Onedrive. 
 
 **Data Sharing**
 
-Our data will be available through our CollectionBuilder website, which contains information about the objects’ titles, creators, years of creation, etc. that may be helpful for reuse. We also link directly to the original repository in which we found each object, allowing for easy access to the source in which the item was found. 
+Our data will be available through our CollectionBuilder website, which contains information about the objects’ titles, creators, years of creation, etc. that may be helpful for reuse. We also link directly to the original repository in which we found each object, allowing for easy access to the source in which the item was found. Additionally, users are able to download our source code through the GitHub repository homepage, which will also allow them to access the images associated with each object. 
 
 **Period of Data Retention**
 
-We plan on maintaining our CollectionBuilder site for the duration of this class, as well as keeping our data backups (on personal computers and Google Drive). While we will leave the website up after the end of this term, we don’t plan on actively maintaining or adding to our collection after it has been submitted.
+We plan on maintaining our CollectionBuilder site for the duration of this class, as well as keeping our data backups (on personal computers and Google Drive). We will leave the website up after the end of this term, and continue to periodically check for debugging purposes until the start of next term — September 2025\. After this, we don’t plan on actively maintaining or adding to our site, but will leave it up for viewing. 
 
 **Licensing and Ethical Issues**
 
-All of the illustrations in our collection are in the public domain, as the majority of them are from before 1925 or have creators who have been dead for more than 70 years. Individually, each of our objects also has a link to a specific rights statement outlining the terms of use for each illustration. 
+All of the illustrations in our collection are in the public domain, as the majority of them are from before 1929 or have creators who have been dead for more than 70 years. Individually, each of our objects also has a link to a specific rights statement outlining the terms of use for each illustration. 
 
 **Appendix: Data Dictionary**
 
@@ -59,7 +59,7 @@ All of the illustrations in our collection are in the public domain, as the majo
 | date | The year that the object was created. In some cases, the year is an estimate/approximation. | 1892 |
 | medium | The medium that the object was created in. If no information is available about the object’s medium, the field is left blank. | Wood Engraving  |
 | description | A detailed description of the object, as it is illustrated.  | The prince arrives to see Snow White asleep in her coffin, surrounded by the seven dwarves. |
-| featuredcurse | A broad category for the type of curse featured in the fairy tale.  | sleeping curse |
+| featuredcurse | A broad category for the type of curse featured in the fairy tale. Possible values include: sleeping curse; animal transformation; voice loss, cursed to die; mirror curse altering personality; dancing curse; unspecified curse as punishment. | sleeping curse |
 | subject | The title of the fairy tale associated with the illustration.  | Snow White |
 | location | The fairy tale’s country of origin. | Germany |
 | latitude | The geographic coordinate detailing the north-south position of the object’s country of origin. | 50.890781 |
