@@ -52,20 +52,20 @@ All of the illustrations in our collection are in the public domain, as the majo
 
 | field | description | example value |
 | :---- | :---- | :---- |
-| objectid | Unique identifier for each object | coll01 |
-| filename | Name of the file, including file type extension. The filename consists of three components to make identification easier: the fairy tale’s title (often abbreviated or as an acronym), the year the object was produced, and the surname of the illustrator. | sw\_1892\_tschautsch.jpg |
-| title | Name of the object, either from the original repository or given by the team. | The prince arrives. |
-| creator | The name of the illustrator who created the object. | Albert Tschautsch |
-| date | The year that the object was created. In some cases, the year is an estimate/approximation. | 1892 |
-| medium | The medium that the object was created in. If no information is available about the object’s medium, the field is left blank. | Wood Engraving  |
-| description | A detailed description of the object, as it is illustrated.  | The prince arrives to see Snow White asleep in her coffin, surrounded by the seven dwarves. |
-| featuredcurse | A broad category for the type of curse featured in the fairy tale. Possible values include: sleeping curse; animal transformation; voice loss, cursed to die; mirror curse altering personality; dancing curse; unspecified curse as punishment. | sleeping curse |
-| subject | The title of the fairy tale associated with the illustration.  | Snow White |
-| location | The fairy tale’s country of origin. | Germany |
-| latitude | The geographic coordinate detailing the north-south position of the object’s country of origin. | 50.890781 |
-| longitude | The geographic coordinate detailing the east-west position of the object’s country of origin. | 10.448669 |
-| source | A link to the original repository where the object was found. | [https://digitalcollections.nypl.org/items/69442d4b-78ff-76b8-e040-e00a18065389](https://digitalcollections.nypl.org/items/69442d4b-78ff-76b8-e040-e00a18065389) |
-| type | A further specification of our objects, defined as an image, stillimage, movingimage, text, etc. | Image;stillimage |
-| format | The object’s file type. | image/jpeg |
-| rights | The rights of the specific object. | No known Copyright |
-| rightsstatement | A link to the rights statement defining how the object can be shared with the public. | [https://rightsstatements.org/page/NKC/1.0/?language=en](https://rightsstatements.org/page/NKC/1.0/?language=en) |
+| **objectid** | Unique identifier for each object | coll01 |
+| **filename** | Name of the file, including file type extension. The filename consists of three components to make identification easier: the fairy tale’s title (often abbreviated or as an acronym), the year the object was produced, and the surname of the illustrator. | sw\_1892\_tschautsch.jpg |
+| **title** | Name of the object, either from the original repository or given by the team. | The prince arrives. |
+| **creator** | The name of the illustrator who created the object. | Albert Tschautsch |
+| **date** | The year that the object was created. In some cases, the year is an estimate/approximation. | 1892 |
+| **medium** | The medium that the object was created in. If no information is available about the object’s medium, the field is left blank. | Wood Engraving  |
+| **description** | A detailed description of the object, as it is illustrated.  | The prince arrives to see Snow White asleep in her coffin, surrounded by the seven dwarves. |
+| **featuredcurse** | A broad category for the type of curse featured in the fairy tale. Possible values include: sleeping curse; animal transformation; voice loss, cursed to die; mirror curse altering personality; dancing curse; unspecified curse as punishment. | sleeping curse |
+| **subject** | The title of the fairy tale associated with the illustration.  | Snow White |
+| **location** | The fairy tale’s country of origin. | Germany |
+| **latitude** | The geographic coordinate detailing the north-south position of the object’s country of origin. | 50.890781 |
+| **longitude** | The geographic coordinate detailing the east-west position of the object’s country of origin. | 10.448669 |
+| **source** | A link to the original repository where the object was found. | [https://digitalcollections.nypl.org/items/69442d4b-78ff-76b8-e040-e00a18065389](https://digitalcollections.nypl.org/items/69442d4b-78ff-76b8-e040-e00a18065389) |
+| **type** | A further specification of our objects, defined as an image, stillimage, movingimage, text, etc. | Image;stillimage |
+| **format** | The object’s file type. | image/jpeg |
+| **rights** | The rights of the specific object. | No known Copyright |
+| **rightsstatement** | A link to the rights statement defining how the object can be shared with the public. | [https://rightsstatements.org/page/NKC/1.0/?language=en](https://rightsstatements.org/page/NKC/1.0/?language=en) |
