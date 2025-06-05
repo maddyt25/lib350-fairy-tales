@@ -16,7 +16,7 @@ We’re hosting our collection as a website on GitHub, which is a “platform th
 
 ### Roles and Responsibilities 
 
-### Group Members: Kitty Fields, Maddy Thomas
+**Group Members: Kitty Fields, Maddy Thomas**
 
 We’ve shared responsibilities for managing and entering data throughout our project. We’ve worked together to find individual objects, document and upload them, and coordinate our work on the aesthetic and technical parts of our website.
 
