@@ -1,34 +1,17 @@
-# CollectionBuilder-Sheets
+# LIB 350M — Spring Term Project
+## Fairy Tales: Countless Curses
+### Course Description
+This course provides students with theoretical and practical experience in collecting, processing, archiving, and publishing humanities data (images, video, sound, text, maps, etc.) gathered from galleries, libraries, archives, and museums (GLAMs).
 
-CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
-This enables live collaboration to prototype collections with minimal set up.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (*or built automatically and hosted for free on GitHub Pages!*).
+### Project Description
+Our collection is composed of fairy/folk tale illustrations from stories featuring curse narratives throughout the 19th and early 20th centuries, drawing from a variety of different stories, story versions, and illustrators. It may be of interest to those conducting humanities research, or who have a curiosity for different fairy tales, how they have appeared historically, and how curse narratives have reflected societal anxieties of the time. Additionally, because our collection reflects illustration from a wide range of years, it may be of interest to those wanting to see how certain illustrators’ work has changed over time, or how fairy tale illustration as a genre has developed stylistically (as this can vary based on the story version and its location of origin).
 
-Visit the [CB-Sheets demo site](https://collectionbuilder.github.io/collectionbuilder-sheets/) to see it in action and even test your own metadata!
+### Data Management Plan
+Our data management plan can be accessed through a page on our website (linked [here](https://maddyt25.github.io/lib350-fairy-tales/dmp.html)). In our DMP, we outline our individual responsibilities, and describe an overview of how our data is managed and used to create our collection. 
+Our data consists of both JPEG and PNG images, and our collection will be maintained until September 2025, when our new school term starts — although we will leave the website up for viewing even after we stop actively maintaining it. Additionally, our data is backed up on our personal computers, through Microsoft OneDrive, and through a Google Drive folder.
 
-To learn more check [docs/sheets-metadata.md](docs/sheets-metadata.md) or visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections.
+### License
 
-Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh), but handles the metadata parsing in a fundamentally different way. 
+CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).  
 
-----------
-
-## CollectionBuilder 
-
-<https://collectionbuilder.github.io/>
-
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
-Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
-
-The basic theme is created using [Bootstrap](https://getbootstrap.com/).
-Metadata visualizations are built using open source libraries such as [DataTables](https://datatables.net/), [Leafletjs](http://leafletjs.com/), [Spotlight gallery](https://github.com/nextapps-de/spotlight), [lazysizes](https://github.com/aFarkas/lazysizes), and [Lunr.js](https://lunrjs.com/).
-Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards.
-
-Questions can be directed to **collectionbuilder.team@gmail.com**
-
-## License
-
-CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
-This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
-CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-gh/blob/main/LICENSE). 
-This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
+The images used in our collection are all either in the Public Domain or have no copyright, and are therefore available for re-use. Links to individual rights statements are available on our website, as well as links to the original source for each object. 
